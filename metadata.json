@@ -1,0 +1,6 @@
+{
+  "name": "Barberia Elite - Booking System",
+  "description": "Clean, modern, ultra-fast Barber Shop website with anti-overlap online booking system, multi-language support (IT, EN, FR), local SEO JSON-LD, and GDPR compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
